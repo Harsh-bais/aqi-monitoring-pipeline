@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+aqi_wide.csv
+*.csv
+!sample_data.csv
+.DS_Store
